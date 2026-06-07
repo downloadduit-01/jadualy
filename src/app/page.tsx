@@ -19,7 +19,7 @@ export default function Home() {
       <section className="py-20 bg-gradient-to-r from-pink-100 to-yellow-100">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
           <h1 className="mb-6 text-4xl font-bold text-gray-900">
-            Selamat Datang di <span className="text-pink-600">Jadualy Online</span>
+            🌟 Yuk! di <span className="text-pink-600">Jadualy Online</span> 🌟
           </h1>
           <p className="mb-8 max-w-xl mx-auto text-lg text-gray-600">
             Tempat bertemu penjual dan pembeli dalam satu platform yang menyenangkan, aman, dan mudah digunakan.
